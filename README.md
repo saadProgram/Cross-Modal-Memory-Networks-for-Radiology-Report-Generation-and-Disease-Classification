@@ -2,7 +2,7 @@
 # Cross-Modal Memory Networks for Radiology Report Generation & Disease Classification  
 **FAST-NUCES | BS(AI) Fall 2024 | Computer Vision Course Project**  
 
-*A joint academic project by [Syed Saadullah Hussaini](https://github.com/Sameed-75210), [Ali Raza](https://github.com/aliraza998), and [Muhammad Sameed](https://github.com/Sameed-75210)*  
+*A joint academic project by [Syed Saadullah Hussaini](https://github.com/saadProgram), [Ali Raza](https://github.com/aliraza998), and [Muhammad Sameed](https://github.com/Sameed-75210)*  
 
 ## 📌 Overview  
 This repository implements an enhanced **Cross-Modal Memory Network (CMN)** to automate radiology report generation and disease classification from X-ray images (IU-Xray dataset). Developed as part of FAST University's **Computer Vision course**, the project addresses critical challenges in medical AI:  
