@@ -37,7 +37,7 @@ Our architecture outperforms baselines with:
 |                        | ROUGE-L          | 0.3667     | +7.1%       |  
 | Disease Classification | Precision        | 80.39%     | +2.94% (vs no focal loss) |  
 
-*(See full tables in `results/`)*  
+*(See full tables in `results` section of the report)*  
 
 
 ## Academic Context  
